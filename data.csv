@@ -1,0 +1,8 @@
+respondent_id,age,monthly_income,education,owns_car,car_model
+R001,28,55000,Graduate,Yes,Swift
+R002,45,120000,Post-Graduate,Yes,
+R003,12,58500,High School,No,NA
+R004,200,62000,High School,Yes,Polo
+R005,35,75000,Graduate,Yes,Nexon
+R006,62,48000,Graduate,No,NA
+R007,12,35000,Graduate,No,NA
